@@ -1,0 +1,22 @@
+{
+  "name": "sthembiso-radebe-224-animals-part-1-oop-basics-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "animals.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umuzi-org/Sthembiso-Radebe-224-animals-part-1-oop-basics-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umuzi-org/Sthembiso-Radebe-224-animals-part-1-oop-basics-javascript/issues"
+  },
+  "homepage": "https://github.com/Umuzi-org/Sthembiso-Radebe-224-animals-part-1-oop-basics-javascript#readme",
+  "dependencies": {
+    "jasmine": "^3.10.0"
+  }
+}
